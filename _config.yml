@@ -1,4 +1,4 @@
 pygments: true
-permalink: /posts/:year/:month/:day/:title/
+permalink: /articles/:year/:month/:day/:title/
 excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
 repository: https://github.com/danielburhans/danielburhans.github.io

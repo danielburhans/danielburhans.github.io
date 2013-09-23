@@ -1,0 +1,9 @@
+---
+title: Articles
+permalink: /articles/
+author: all
+---
+
+{% for post in site.posts %}
+  {% include article_item.html %}
+{% endfor %}
